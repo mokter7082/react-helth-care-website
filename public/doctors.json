@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "drName":"Rook Merry",
+        "from":"1997",
+        "serviceName":"Dermatology",
+        "serviceDes":"Our Clinic and Doctors World over people use massage therapy to help promote healthy skin, nourish and strengthen the body, relieve stress,",
+        "img":"https://demo.proteusthemes.com/medicpress/wp-content/uploads/sites/48/2017/02/photo56.jpg"
+    },
+    {
+        "id": 2,
+        "drName":"Anol Kerry",
+        "from":"1990",
+        "serviceName":"Surgery and Radiology",
+        "serviceDes":"Operation Rooms With the clinic’s family oriented policies and extremely caring and sympathetic staff, we ensure that each patient is made …",
+        "img":"https://demo.proteusthemes.com/medicpress/wp-content/uploads/sites/48/2017/02/photo55.jpg"
+    },
+    {
+        "id": 3,
+        "drName":"Jem Terry",
+        "from":"1920",
+        "serviceName":"Pediatrics",
+        "serviceDes":"Children At MedicPress, we provide excellent pediatric care to children in the city and adjacent areas for about half a century now. Our medical …",
+        "img":"https://demo.proteusthemes.com/medicpress/wp-content/uploads/sites/48/2017/02/photo34.jpg"
+    },
+    {
+        "id": 4,
+        "drName":"Petty John",
+        "from":"1925",
+        "serviceName":"Pregnancy",
+        "serviceDes":"Located in the heart of the city,MedicPress is a state-of-the-art medical center which is striving towards its commitment to provide comprehensive health care services to the residents as well as any patient walking in at the most affordable cost.",
+        "img":"https://demo.proteusthemes.com/medicpress/wp-content/uploads/sites/48/2017/02/photo18.jpg"
+    },
+    {
+        "id": 5,
+        "drName":"Honny Merry",
+        "from":"1997",
+        "serviceName":"Facial Features",
+        "serviceDes":"With the hospital founder as a leading cardiac surgeon, MedicPress has been able to establish itself as the ultimate destination for diagnosis, treatment, and prevention of all kinds of heart and vascular diseases and their treatment. Here, almost all types of cardiovascular disorders are treated including coronary heart disease, arrhythmia, heart muscle disease,",
+        "img":"https://demo.proteusthemes.com/medicpress/wp-content/uploads/sites/48/2017/02/photo20.jpg"
+    },
+    {
+        "id": 6,
+        "drName":"Kook Khaba",
+        "from":"1997",
+        "serviceName":"Sugar Your Teeth",
+        "serviceDes":"Stress is also known to cause hyperarousal, a medical state when a stressed person does not feel sleepy. If the symptoms persist for a long time, this insomnia leads to severe sleep disorders. Let’s see some of the effects stress can have on the body.",
+        "img":"https://demo.proteusthemes.com/medicpress/wp-content/uploads/sites/48/2017/02/photo46.jpg"
+    }
+]

@@ -1,0 +1,23 @@
+.my-cart {
+  /* border: 2px solid rgb(206, 206, 206); */
+  padding: 15px;
+  /* background-color: blanchedalmond; */
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.apointment-button {
+  background-color: #e67e22;
+  padding: 7px;
+  border-radius: 10px;
+  border: 1px solid;
+  color: #fff;
+  letter-spacing: 2px;
+}
+.apointment-button:hover {
+  background-color: #8d4c13;
+  padding: 7px;
+  border-radius: 10px;
+  border: 1px solid;
+  color: #fff;
+  letter-spacing: 2px;
+}
